@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: 15 10 2019
+### Day 1: 15 10 2019
 
 **Today's Progress**: 
 1. Done FreeCodeCamp challenge Basic Algorithm Scripting: Slice and Splice 
