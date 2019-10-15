@@ -11,6 +11,8 @@
 
 Worked a little bit on Falsy Bouncer, I wasn't able to find a solution, I've tried a for loop with a if conditional nested but doing so there are some holes in the returned array, fine for now, back at it tomorrow.
 
+Read something on CSS on the Mozilla Developer Network, good to fill some holes but I'm really not confident in my CSS even after the FreeCodeCamp curriculum on the subject, should I do that again?
+
 
 
 **Link to work:** [Basic Algorithm Scripting: Slice and Splice ](https://learn.freecodecamp.org/javascript-algorithms-and-data-[structures/basic-algorithm-scripting/slice-and-splice)
