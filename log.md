@@ -3,9 +3,8 @@
 ### Day 0: 15 10 2019
 
 **Today's Progress**: 
-Done FreeCodeCamp challenge Basic Algorithm Scripting: Slice and Splice 
-
-Worked on FreeCodeCamp challenge Basic Algorithm Scripting: Falsy Bouncer
+1. Done FreeCodeCamp challenge Basic Algorithm Scripting: Slice and Splice 
+2. Worked on FreeCodeCamp challenge Basic Algorithm Scripting: Falsy Bouncer
 
 **Thoughts:** I was stuck for a while in the FreeCodeCamp challenge Slice and Splice , i've finally solved using basic methods slice and concat, I am not happy with the solution but it works so fine for now but I intend to rework it in the future.
 
