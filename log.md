@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 2: 16 10 2019
+
+**Today's Progress**: 
+1. Done lots of exercises in W3School about JS
+
+**Thoughts:** 
+FreeCodeCamp is down so I'm using this time to get better at foudamentals so I've worked through a lot of exercises in W3School
+
+**Link to work:** 
+[W3School JS Exercises](https://www.w3schools.com/js/js_exercises.asp)
+
 ### Day 1: 15 10 2019
 
 **Today's Progress**: 
