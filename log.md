@@ -4,6 +4,7 @@
 
 **Today's Progress**: 
 1. Done lots of exercises in W3School about JS
+2. Listened to some codeNewbie podcast 
 
 **Thoughts:** 
 FreeCodeCamp is down so I'm using this time to get better at foudamentals so I've worked through a lot of exercises in W3School
