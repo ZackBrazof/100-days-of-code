@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 3: 17 10 2019
+
+**Today's Progress**: 
+1. Done count vowels kata on code wars
+
+
+**Thoughts:** 
+FreeCodeCamp is still down, so I've started code wars, my first impression is that it is a nice resource. I am not happy at all with my solution.
+
+**Link to work:** 
+[CodeWars Count vowels](https://www.codewars.com/kata/54ff3102c1bad923760001f3)
+
 ### Day 2: 16 10 2019
 
 **Today's Progress**: 
