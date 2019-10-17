@@ -4,10 +4,12 @@
 
 **Today's Progress**: 
 1. Done count vowels kata on code wars
-
+2. Started a personal blog
 
 **Thoughts:** 
 FreeCodeCamp is still down, so I've started code wars, my first impression is that it is a nice resource. I am not happy at all with my solution.
+
+I have started designing a personal blog.
 
 **Link to work:** 
 [CodeWars Count vowels](https://www.codewars.com/kata/54ff3102c1bad923760001f3)
