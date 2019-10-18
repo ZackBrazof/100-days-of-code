@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 4: 18 10 2019
+
+**Today's Progress**: 
+1. Worked a personal blog
+
+**Thoughts:** 
+I have designen some part of what can be my personal blog using html and css, I have done header, about section, blog section and a photo gallery, the last need more work.
+It is still very raw, but it is coming along.
+
 ### Day 3: 17 10 2019
 
 **Today's Progress**: 
