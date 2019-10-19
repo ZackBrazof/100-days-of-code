@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 5: 19 10 2019
+
+**Today's Progress**: 
+1. Worked a personal blog
+
+**Thoughts:** 
+
+
+**Link to work:** 
+
+
 ### Day 4: 18 10 2019
 
 **Today's Progress**: 
