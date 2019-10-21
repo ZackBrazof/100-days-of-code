@@ -8,14 +8,17 @@
 3. Studied some Regex doing FreeCodeCamp challenges
 
 **Thoughts:** 
-This time the Falsy Bouncer challenge went smooth like butter, solved in three minutes, while seemingly hard all my other tries.
-I also solved Where do I Belong in little time, understanding the problem is really a key part of coding I guess.
-I have started the following challenge but I felt like I was lacking some knowledge so I did get back to refresh some regular espression
+This time the Falsy Bouncer challenge went smooth like butter, solved in three minutes, while seemingly beyond reah in all my other tries.
+
+I also solved 'Where do I Belong' in little time, understanding the problem is really a key part of coding I guess.
+I have started the following challenge but I felt like I was lacking some knowledge so I did get back to refresh some regular espression.
 
 **Link to work:** 
 [FreeCodeCamp Falsy Bouncer](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/falsy-bouncer) 
 
 [Basic Algorithm Scripting: Where do I Belong](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/where-do-i-belong)
+
+[Regular Expression](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/) 
 
 ### Day 5: 19 10 2019
 
