@@ -12,6 +12,7 @@ I also solved Where do I Belong in little time, understanding the problem is rea
 
 **Link to work:** 
 [FreeCodeCamp Falsy Bouncer](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/falsy-bouncer) 
+
 [Basic Algorithm Scripting: Where do I Belong](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/where-do-i-belong)
 
 ### Day 5: 19 10 2019
