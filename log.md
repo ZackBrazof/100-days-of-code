@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 6: 21 10 2019
+
+**Today's Progress**: 
+1. Done freCodeCamp challenge Basic Algorithm Scripting: Falsy Bouncer
+2. Done freCodeCamp challenge Basic Algorithm Scripting: Where do I Belong
+
+**Thoughts:** 
+This time the Falsy Bouncer challenge went smooth like butter, solved in three minutes, while seemingly hard all my other tries.
+I also solved Where do I Belong in little time, understanding the problem is really a key part of coding I guess.
+
+**Link to work:** 
+[FreeCodeCamp Falsy Bouncer](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/falsy-bouncer) 
+[Basic Algorithm Scripting: Where do I Belong](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/where-do-i-belong)
+
 ### Day 5: 19 10 2019
 
 **Today's Progress**: 
