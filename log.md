@@ -6,6 +6,7 @@
 1. Done freCodeCamp challenge Basic Algorithm Scripting: Falsy Bouncer
 2. Done freCodeCamp challenge Basic Algorithm Scripting: Where do I Belong
 3. Studied some Regex doing FreeCodeCamp challenges
+4. Hello World project from GitHub guide
 
 **Thoughts:** 
 This time the Falsy Bouncer challenge went smooth like butter, solved in three minutes, while seemingly beyond reah in all my other tries.
@@ -18,7 +19,9 @@ I have started the following challenge but I felt like I was lacking some knowle
 
 [Basic Algorithm Scripting: Where do I Belong](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/where-do-i-belong)
 
-[Regular Expression](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/) 
+[Regular Expression](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/)
+
+[Hello World - GitHub](https://guides.github.com/activities/hello-world/)
 
 ### Day 5: 19 10 2019
 
