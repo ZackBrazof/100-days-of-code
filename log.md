@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+### Day 7: 22 10 2019
+
+**Today's Progress**: 
+1. Worked some challeges of Regex on FreeCodeCamp
+2. Worked but not solved Basic Algorithm Scripting: Mutations on FreeCodeCamp
+3. Done some Flexbox Froggy
+
+**Thoughts:** 
+Very frustrated from the Mutations challenge.
+
+**Link to work:** 
+[Basic Algorithm Scripting: Mutations](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/mutations)
+
+[Regular Expression](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/)
+
+[Flexbook Froggy](https://flexboxfroggy.com/)
+
+
 ### Day 6: 21 10 2019
 
 **Today's Progress**: 
